@@ -20,7 +20,7 @@ RapidPulze-YiYan-Identifyer
 php think run
 ~~~
 
-## 注明：仍在开发阶段。
+### 注明：仍在开发阶段。
 
 ## 版权信息
 
