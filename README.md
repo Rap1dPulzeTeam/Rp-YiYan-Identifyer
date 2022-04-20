@@ -13,16 +13,14 @@ RapidPulze-YiYan-Identifyer
 * RapidPulze Chocolate APX
 * RapidPulze Square MK1(Matrix OS 2)
 * 203 Matrix Pro
-## 安装
+
+## 测试网页打开
 
 ~~~
-composer create-project topthink/think tp 6.0.*
+php think run
 ~~~
 
-如果需要更新框架使用
-~~~
-composer update topthink/framework
-~~~
+## 注明：仍在开发阶段。
 
 ## 版权信息
 
