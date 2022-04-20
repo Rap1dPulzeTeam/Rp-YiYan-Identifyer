@@ -3,7 +3,7 @@ RapidPulze-YiYan-Identifyer
 
 > 丁真，我真的好喜欢你呀，为了你，我要么么哒
 
-![img](https://img.duotegame.com/article/contents/2022/01/20/small_20220120110905200.jpg)  
+![img](https://img.duotegame.com/article/contents/2022/01/20/small_20220120110905836.jpg)  
 我们特邀丁真同学作为我们的真伪鉴定师， 
 基于ThinkPHP的[徕伯](http://www.rapidpulze.xyz/)公司设备真伪检验系统，谨防假冒伪劣产品。
 
